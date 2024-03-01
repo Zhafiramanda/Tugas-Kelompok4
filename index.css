@@ -1146,7 +1146,7 @@ body {
 }
 
 .card-img-top {
-  height: 80%;
+  width: auto;
   min-height: 175px;
   object-fit: cover;
   padding-left: 20px;
