@@ -1,0 +1,262 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding:0 ;
+  overflow-x: hidden;
+}
+
+body {
+    font-family: Causten semi, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.container {
+    width: 100%;
+    width: 1110px;
+    margin: 0 auto;
+}
+
+header {
+    height:72px;
+    background-color: white;
+
+}
+
+
+header a{
+    color: #933393;;
+}
+
+
+
+
+/* .bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+
+.navbar {
+    
+} */
+
+
+nav {
+    height: 72px;
+    position: relative;
+}
+
+.header-logo {
+    float: left;
+    position: absolute;
+    top: 19px;
+}
+
+
+.header-list {
+    float: right;
+    position: absolute;
+    top: 24px;
+    right: 0;
+}
+
+.header-list ul {
+
+}
+
+.header-list li {
+    float: left;
+    font-size: 16px;
+    margin-right: 24px;
+    
+}
+
+
+
+/* .header-list li:last-child {
+    color: white !important;
+    padding: 13px 24px;
+    border-radius: 8px;
+    background-color: #933393;
+} */
+
+.learningz {
+    padding: ;
+}
+
+
+.header-list span {
+    margin-left: 8px;
+}
+
+
+
+.top-wrapper {
+    color: white;
+    background-image: linear-gradient(70deg, #761a79, #9f27a3), url(https://assets-global.website-files.com/5e70b9a…/61a5a2d…_half%20-%20logo%20binar%20padi.svg);
+
+}
+
+
+.top-wrapper-left {
+    float:left;
+    width: 60%;
+    margin-top: 64px;
+}
+
+.top-wrapper span {
+    margin-right: 10px;
+}
+.top-wrapper-left p{
+    font-size:15px;
+    margin-bottom: 13.5px;
+
+}
+
+.top-wrapper-left h1 {
+    margin-bottom: 32.5px;
+
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+
+}
+
+.top-wrapper-choice a {
+    float: left;
+    padding: 13px 35px;
+    color:black;
+    background-color: #F99D1C;
+    margin-right: 24px;
+    border-radius: 8px;
+}
+
+.top-wrapper-choice li {
+    background-color: rgba(255, 255, 255, .2);
+    padding: 10px;
+    border-radius: 8px;
+    
+    
+}
+
+.top-wrapper-left li:last-child {
+    margin-top: 15px;
+}
+
+
+
+
+
+.top-wrapper-right {
+    float: left;
+    width: 40%;
+    position: relative;
+}
+
+.play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+
+
+.intro-wrapper {
+    padding: 64px 90px;
+    text-align: center;
+}
+
+.intro-wrapper-title {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.intro-wrapper h1 {
+    color: #933393;
+}
+
+.intro-wrapper p {
+    color: #696969;
+}
+
+.lists {
+    margin-bottom: 48px;
+}
+
+.list {
+    box-sizing: border-box;
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 8px 16px;
+    border-right: 1px solid #E0E0E0;
+}
+
+.list h2 {
+    color: #933393;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+
+
+}
+
+.list p {
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+
+
+.list:last-child {
+    border: none;
+}
+
+.download {
+    padding: 19px 17px;
+    border: 1px solid #933393;
+    border-radius: 8px;
+
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #933393;
+    
+    display: inline-block;
+    text-align: center;
+    
+}
+
+
+
+.download span {
+    margin-right: 8px;
+}
+
+
+.top-wrapper-search a{
+    color: white;
+    display: flex;
+    line-height:32px;
+}
+
+
+
+
