@@ -1085,7 +1085,7 @@ body {
 
 /* nadilla's css */
 .container {
-  width: 67%;
+  width: auto;
   justify-content: center;
 }
 .pembicara-ahli-heading{
