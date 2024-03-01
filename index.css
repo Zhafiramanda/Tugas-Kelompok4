@@ -61,11 +61,11 @@ h4 {
   font-size: 1.2rem;
 }
 
-ol,
+/* ol,
 ul,
 menu {
   list-style: none;
-}
+} */
 
 button,
 input,
@@ -462,7 +462,7 @@ body {
   }
   
   h1 {
-    font-size: 2em;
+    font-size: 36px;
     margin-bottom: 20px;
   }
   
@@ -546,7 +546,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     margin: 10px;
-    width: 250px;
+    width: 400px;
     text-align: center;
     height: auto;
   }
@@ -575,10 +575,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 320px;
+  height: 350px;
 }
-
-
 
 .content-teach {
   display: flex;
