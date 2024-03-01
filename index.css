@@ -653,8 +653,7 @@ body {
   display: inline-block;
 } */
 
-/* uy */
-
+/* Naufal ady */
 /*  slide 1 start */
 :root {
   --primary: #933393;
@@ -802,8 +801,10 @@ body {
 } */
 
 /* slide 1 end */
+
 /* slide 2 start */
 
+/* mengatur container tampilan */
 .comp-eaf-container {
   max-width: 1100px;
   justify-content: flex-start;
@@ -819,11 +820,11 @@ body {
   margin-right: auto;
 }
 
-.new-body {
+/* .new-body {
   background-color: var(--white);
   font-size: 18px;
   line-height: 26px;
-}
+} */
 
 .comp-eaf-img {
   max-height: 356px;
@@ -869,6 +870,7 @@ body {
   font-size: 15px;
   line-height: 22px;
 }
+/* end slide 2 */
 
 /* start slide 3  */
 
@@ -1080,4 +1082,7 @@ body {
   height: 400px;
   margin-top: 40px;
 }
+
+/* end slide 3 */
+
       
